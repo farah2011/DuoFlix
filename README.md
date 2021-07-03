@@ -112,6 +112,6 @@ Distributed under the GNU General Public License. See `LICENSE` for more informa
 
 Duocodies - [@twitter](https://twitter.com/Duocodies)
 
-
+>  This content has been shared under Educational Purposes Only. Developers not responsible for the actions performed by user
 
 
